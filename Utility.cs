@@ -38,11 +38,11 @@ namespace UtilityLib
             }
         }
 
-        public void WriteDataEvent(DataLog dLog)
+        public void WriteDataEvent(DataLog dLog, string path, string name)
         {
-            string rowLofValues = $"{dLog.ClassName} - {dLog.MethodName} - {dLog.DateTimeLog}";
+            string rowLofValues = $"/-/ Nuova registrazione : {name} - {dLog.DateTimeLog} /-/\n";
 
-            File.AppendAllText("C:\\Users\\Gabriele\\Documents\\Betacom\\EsercizioLogin_Ren\\MyNameIsAlpaca\\EsercizioLogin\\DataLog.txt", rowLofValues);
+            File.AppendAllText(path, rowLofValues);
         }
 
         public class ErrorLog
@@ -66,11 +66,11 @@ namespace UtilityLib
                 ErrorMessage = errorMessage;
                 InnerExcept = innerExcept;
             }
-            public void WriteErrorEvent(ErrorLog dLog)
+            public void WriteErrorEvent(ErrorLog dLog, string path)
             {
                 string rowLogValues = $"{dLog.ClassName}:{dLog.MethodName}:{dLog.DateTimeLog.ToString()}:" + $"{dLog.ErrorCode.ToString()}:{dLog.ErrorMessage}:{dLog.InnerExcept}";
 
-                File.AppendAllText("C:\\Users\\Gabriele\\Documents\\Betacom\\EsercizioLogin_Ren\\MyNameIsAlpaca\\EsercizioLogin\\ErrorLog.txt", rowLogValues);
+                File.AppendAllText(path, rowLogValues);
             }
         }
     }
