@@ -4,23 +4,28 @@ namespace UtilityLib
 {
     public class Utility
     {
+
+        public bool testInt(string num)
+        {
+            if (int.TryParse(num, out int userNum))
+            {
+                return true;
+            }
+            else { return false; }
+        }
+        public void titleStyle(string message)
+        {
+            Console.WriteLine("");
+            Console.WriteLine($"== {message} ==");
+            Console.WriteLine("");
+        }
         public void errorStyle(string message)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(message);
             Console.ForegroundColor = ConsoleColor.White;
         }
-        public bool testInt(string value)
-        {
-            if (int.TryParse(value, out int val))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
+        
 
         public class DataLog
         {
