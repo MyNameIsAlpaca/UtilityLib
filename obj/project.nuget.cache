@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "DmN1ebOxJMOvUYISZ0TcawPUdUw4wmVOGPPBJnnmVXZf/6HNmJXavvjhdO47cKeKulTkax3D4EOYLqL+btVmCQ==",
+  "dgSpecHash": "xioOXQVk0adsqVIY8g9PkM2KIFqDuSgxiqhDZM01f56FJHacGzD4dp2oGrH85Lglj+Hh1Yw2S4eBdf+C0wTN7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriele\\Documents\\Betacom\\UtilityLib\\UtilityLib.csproj",
+  "projectFilePath": "C:\\Users\\Betacom\\Documents\\Betacom\\Progetti\\MyNameIsAlpaca\\UtilityLib\\UtilityLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gabriele\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriele\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Betacom\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Betacom\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

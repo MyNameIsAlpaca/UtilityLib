@@ -25,7 +25,14 @@ namespace UtilityLib
             Console.WriteLine(message);
             Console.ForegroundColor = ConsoleColor.White;
         }
-        
+
+        public void successStyle(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(message);
+            Console.ForegroundColor = ConsoleColor.White;
+        }
+
 
         public class DataLog
         {

@@ -10,3 +10,15 @@ C:\Users\Gabriele\Documents\Betacom\UtilityLib\obj\Debug\net7.0\refint\UtilityLi
 C:\Users\Gabriele\Documents\Betacom\UtilityLib\obj\Debug\net7.0\UtilityLib.pdb
 C:\Users\Gabriele\Documents\Betacom\UtilityLib\obj\Debug\net7.0\ref\UtilityLib.dll
 C:\Users\Gabriele\Documents\Betacom\UtilityLib\obj\Debug\net7.0\UtilityLib.csproj.AssemblyReference.cache
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\bin\Debug\net7.0\UtilityLib.deps.json
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\bin\Debug\net7.0\UtilityLib.dll
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\bin\Debug\net7.0\UtilityLib.pdb
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.csproj.AssemblyReference.cache
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.AssemblyInfoInputs.cache
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.AssemblyInfo.cs
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.dll
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\refint\UtilityLib.dll
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\UtilityLib.pdb
+C:\Users\Betacom\Documents\Betacom\Progetti\MyNameIsAlpaca\UtilityLib\obj\Debug\net7.0\ref\UtilityLib.dll
